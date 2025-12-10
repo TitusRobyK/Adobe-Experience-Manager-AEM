@@ -284,5 +284,3 @@ When modifying POMs, **do not** arbitrarily upgrade AEM dependencies or plugin v
 3. **Ask** the user for clarification on architectural decisions (e.g., "Should this be a new component or an extension?").
 
 ---
-
-_End of AGENTS.md_
